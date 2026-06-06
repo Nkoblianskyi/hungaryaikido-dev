@@ -41,7 +41,7 @@ export default function Footer() {
                   <circle cx="19" cy="28" r="3.8" fill="oklch(0.08 0 0)" stroke="oklch(0.55 0.22 26)" strokeWidth="1" />
                 </svg>
                 <span className="flex flex-col leading-none">
-                  <span className="font-serif text-[9px] tracking-[0.3em] uppercase text-muted-foreground">Hungary</span>
+                  <span className="font-serif text-[12px] tracking-[0.3em] uppercase text-white">Hungary</span>
                   <span className="font-serif text-[17px] font-semibold italic leading-none text-foreground">Aikido</span>
                 </span>
               </Link>
